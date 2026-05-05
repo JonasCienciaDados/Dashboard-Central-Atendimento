@@ -26,7 +26,7 @@ insights acionáveis para gestão de equipes de atendimento.
 | Sábado é o dia de maior volume (752 atendimentos) | Escala de fim de semana subestimada |
 
 ## 📊 Dashboard Power BI
-![Dashboard Central de Atendimento](dashboard_central_atendimento.png)
+![Dashboard Central de Atendimento](Dashboard%20Central%20Atendimento.png)
 
 ## 🛠️ Ferramentas
 - **Python** · pandas · Google Colab — tratamento e exportação dos dados
